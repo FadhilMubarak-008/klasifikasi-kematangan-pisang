@@ -1,0 +1,9 @@
+venv/
+venv-tf/
+
+model_pisang.keras
+
+banana_classification/
+
+__pycache__/
+.ipynb_checkpoints/
